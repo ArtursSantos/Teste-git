@@ -8,7 +8,8 @@ namespace teste
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("qualquer coisa");
+            System.Console.WriteLine("Alguma mudança ai :p");
+            
         }
     }
 }
