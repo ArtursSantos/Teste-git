@@ -9,6 +9,8 @@ namespace teste
             Console.WriteLine("Hello World!");
 
             System.Console.WriteLine("Alguma mudança ai :p");
+
+            System.Console.WriteLine(32);
             
         }
     }
